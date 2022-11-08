@@ -1,6 +1,6 @@
 ---
 title: "C"
-date: 2022-11-08T21:25:47+09:00
+date: 2022-11-08T22:16:23+09:00
 draft: true
+author: "Steve"
 ---
-
